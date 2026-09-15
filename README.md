@@ -40,63 +40,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Augury](https://www.augury.com/)**  
-
-  AI-powered machine health and predictive maintenance platform combining continuous sensor data with expert analysis for manufacturing and process industries.
-
-
-
-- **[Nanoprecise](https://www.nanoprecise.io/)**  
-
-  Predictive maintenance solution focused on vibration, acoustic, and related sensor analytics for industrial assets.
-
-
-
-- **[Senseye (Siemens)](https://www.siemens.com/)**  
-
-  Siemens’ predictive maintenance platform using AI and industrial data to anticipate failures and prioritize maintenance actions.
-
-
-
-- **[Uptake](https://www.uptake.com/)**  
-
-  Industrial AI and predictive analytics platform oriented toward fleet and heavy-equipment health (rail, mining, construction, etc.).
-
-
-
-- **[C3 AI Reliability](https://c3.ai/)**  
-
-  Enterprise AI application for predictive maintenance and reliability, part of the broader C3 AI platform.
-
-
-
-- **[IBM Maximo Monitor](https://www.ibm.com/products/maximo)**  
-
-  Monitoring and anomaly detection capabilities within the IBM Maximo asset management ecosystem.
-
-
-
-- **[Fiix Foresight](https://fiixsoftware.com/)**  
-
-  Predictive maintenance and AI-driven insights features within the Fiix CMMS/EAM platform.
-
-
-
-- **[SparkCognition](https://www.sparkcognition.com/)**  
-
-  AI platform offering predictive maintenance and industrial analytics solutions.
-
-
-
-- **[AssetWatch](https://www.assetwatch.com/)**  
-
-  Predictive maintenance and machine health monitoring platform for industrial equipment.
-
-
-
-- **[Infinite Uptime](https://www.infinite-uptime.com/)**  
-
-  Predictive maintenance solution focused on continuous monitoring and early fault detection.
+| Product | Description | Starting Tier Pricing | Free Tier / Trial Limit |
+| :--- | :--- | :--- | :--- |
+| **[Augury](https://www.augury.com/)** | AI-powered machine health & predictive maintenance platform combining continuous vibration/acoustic sensor data with expert analysis for process industries. | ~$50–$150/monitored machine/month (Hardware/installation quoted separately) | No free tier or trial (Demo & ROI calculator only) |
+| **[Nanoprecise](https://www.nanoprecise.io/)** | Predictive maintenance solution focused on vibration, acoustic, and thermal sensor analytics for industrial assets. | Custom quote-based (Subscription per monitoring point/asset) | No free tier or trial (30-min expert demo available) |
+| **[Senseye (Siemens)](https://www.siemens.com/)** | Siemens’ enterprise predictive maintenance platform using AI & industrial data to anticipate equipment failures. | Custom quote-based (Per-asset monthly subscription via Siemens sales) | No free tier or trial (Consultation & demo available) |
+| **[Uptake](https://www.uptake.com/)** | Industrial AI and predictive analytics platform oriented toward heavy equipment & fleet health (rail, mining, construction). | ~$100,000/year platform licensing (Enterprise quote-based) | No free tier or trial (Guided demo available) |
+| **[C3 AI Reliability](https://c3.ai/)** | Enterprise AI application for predictive maintenance and reliability within the C3 AI platform. | $0.55/vCPU-hour ($250k for 3-month pilot engagement) | No full platform free tier; 14-day trial for select cloud marketplace modules |
+| **[IBM Maximo Monitor](https://www.ibm.com/products/maximo)** | Asset monitoring and anomaly detection application within the IBM Maximo Application Suite. | ~$40,000/year (IBM AppPoints subscription model) | No permanent free tier; time-limited demo/trial via IBM or AWS Marketplace |
+| **[Fiix Foresight](https://fiixsoftware.com/)** | Predictive maintenance and AI insights within the Fiix CMMS/EAM platform (Rockwell Automation). | Free tier ($0) / Paid starting at $45/user/month (Basic plan) | Permanent Free plan limited to 3 users, 25 active PM tasks, and ~20 assets |
+| **[SparkCognition](https://www.sparkcognition.com/)** | Enterprise AI platform offering predictive maintenance, asset analytics, and visual AI solutions. | Custom quote-based (Scales by deployment scope and fleet size) | No free tier or trial (Guided demo available) |
+| **[AssetWatch](https://www.assetwatch.com/)** | End-to-end machine health monitoring platform with wireless sensors and expert advice. | $199 upfront trial fee; full service quote-based subscription | 30-day paid trial plan for $199 (Includes sensors & cloud access) |
+| **[Infinite Uptime](https://www.infinite-uptime.com/)** | Industrial IoT & prescriptive maintenance solution for high-frequency vibration and acoustic monitoring. | Custom quote-based (Hardware sensors per unit + PlantOS subscription) | No free tier or trial (On-site demo & proof of concept available) |
 
 
 
