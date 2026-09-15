@@ -1,0 +1,2 @@
+# Awesome-Predictive-Maintenance-Platform
+
